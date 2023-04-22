@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hpmaster8755&show_icons=true&locale=en" alt="hpmaster8755" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpmaster8755&" alt="hpmaster8755" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hpmaster8755&" alt="hpmaster8755" />
+</p>
+
+[![An image of @hpdragon121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hpdragon121)](https://holopin.io/@hpdragon121)
