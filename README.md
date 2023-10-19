@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **DSA , CP**
 
-- 📫 How to reach me **himipnwr121@gmail.com**
+- 📫 How to reach me **himanshupanwar624@gmail.com**
 
 - ⚡ Fun fact **I have a good sense of humor**
 
